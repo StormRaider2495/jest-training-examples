@@ -1,5 +1,3 @@
-'use strict';
-
 function infiniteTimerGame(callback) {
     console.log('Ready....go!');
 

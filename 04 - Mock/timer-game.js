@@ -1,5 +1,3 @@
-'use strict';
-
 function timerGame(callback) {
     console.log('Ready....go!');
     setTimeout(() => {
